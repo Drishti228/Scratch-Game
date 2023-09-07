@@ -1,4 +1,5 @@
 # Scratch-Game
+<img width="450" alt="image" src="https://github.com/Drishti228/Scratch-Game/assets/84791003/31cca5e7-a8b4-44f2-9ee8-d1bf0c43a8db">
 
 
 
